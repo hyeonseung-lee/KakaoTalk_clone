@@ -1,0 +1,19 @@
+.badge {
+  background-color: tomato;
+  width: 20px;
+  height: 20px;
+  display: block;
+  border-radius: 50%;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  color: white;
+  font-weight: 600;
+}
+.badge-sm {
+  width: 5px;
+  height: 5px;
+  border: 0px 0px 30px 5px;
+}
